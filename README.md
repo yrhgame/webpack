@@ -1,7 +1,7 @@
 webpack + es6 + Webpack-dev-server 环境搭建实例
 
 #目录结构说明：
-
+<pre><code>
 |-assets       // 资源文件
   |-css        // 样式文件
   |-img        // 图片文件
@@ -10,7 +10,7 @@ webpack + es6 + Webpack-dev-server 环境搭建实例
 |-dist         // 编译后的文件存放路径
 |-node_modules // 依赖模块安装目录
 index.html     // 测试文件
-
+</code></pre>
 
 #本实例搭建步骤：
 1、安装依赖组件
