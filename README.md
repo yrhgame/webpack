@@ -13,17 +13,17 @@ index.html     // 测试文件
 </code></pre>
 
 #本实例搭建步骤：
-1、安装依赖组件
+1、安装依赖组件<br />
 npm install
 
-2、编译文件
+2、编译文件<br />
 webpack
 
-3、打开webpack-dev-server服务
+3、打开webpack-dev-server服务<br />
 npm start
 
-4、访问测试地址
+4、访问测试地址<br />
 http://localhost:8080/
 
-5、查看编译效果
+5、查看编译效果<br />
 直接修改 css|js 文件，测试地址将直接无刷新加载
